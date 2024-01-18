@@ -59,7 +59,7 @@ int main() {
     }
 
     // Write a loop to delete all the node objects that were dynamically created (with the new keyword)!
-    current_node = my_node_4.next; // reset value to expected starting point (the first dynamically created node)
+    current_node = my_node_4.next; // Reset value to expected starting point (the first dynamically created node).
     while(current_node != nullptr) {
         node *node_to_delete = current_node;
         cout << "deleting node with id: " << node_to_delete->id << endl;
