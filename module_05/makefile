@@ -6,7 +6,7 @@ RM=rm -f
 SRCS=autosort_list.cpp main.cpp test_autosort_list.cpp
 OBJS=$(subst .cpp,.o,$(SRCS))
 
-all: main testing
+all: main test
 
 main: autosort_list.o
 	$(CXX) main.cpp -o main autosort_list.o
