@@ -26,4 +26,4 @@ clean:
 	$(RM) $(OBJS)
 
 distclean: clean
-	$(RM) main testing
+	$(RM) main test
