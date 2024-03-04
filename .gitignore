@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+#gcov files
+*.gcno
+*.gcda
+*.gcov
