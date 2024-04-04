@@ -1,4 +1,4 @@
-Last updated 02 January, 2024
+Last updated 04 April, 2024
 
 ### CS260 -- Data Structures
 Winter 2024  
@@ -30,7 +30,7 @@ This course explores the correct use of a variety of data structures in object-o
 
 ### 2. Class Time-space:
 1. **Note**: This class is delivered in a flexible format (you will not need to attend live sessions).
-2. **Lecture + demo + lab**: MWF 1400 -- 1520, flexible, see Moodle for details
+2. **Lecture + demo + lab**: M 1000 -- 1120, flexible, see Moodle for details
 
 ---
 
